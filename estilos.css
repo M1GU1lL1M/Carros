@@ -1,0 +1,30 @@
+body {
+    background-image: url(/imgs/fundopreto.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-style: italic;
+    margin-top: 70px;
+    font-size: 70px;
+}
+footer {
+    background-color: black;
+    color: white;
+    position: absolute;
+    bottom: 0px;
+    font-size: 12px;
+    width: 90%;
+}
+#foot1 {
+    position: relative;
+    top: 10px;
+    left: 5px;
+}
+#foot2 {
+    position: relative;
+    left: 5px;
+}
