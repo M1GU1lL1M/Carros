@@ -8,7 +8,7 @@ h1 {
     text-align: center;
     font-family: "Open Sans", sans-serif;
     font-style: italic;
-    margin-top: 70px;
+    margin-top: 50px;
     font-size: 70px;
 }
 footer {
@@ -27,4 +27,43 @@ footer {
 #foot2 {
     position: relative;
     left: 5px;
+}
+#foot3 {
+    position: absolute;
+    bottom: 2px;
+    left: 730px;
+    width: 450px;
+    text-align: center;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logos {
+    width: 20px;
+    border-radius: 100px;
+    position: absolute;
+    bottom: 5px;
+}
+#you {
+    width: 40px;
+    right: -52px;
+}
+#zap {
+    right: -75px;
+    bottom: 14px;
+    width: 24px;
+}
+#snap {
+    right: -105px;
+    bottom: 14px;
+    width: 24px;
+}
+#twit {
+    right: -135px;
+    bottom: 14px;
+    width: 24px;
+}
+#insta {
+    right: -165px;
+    bottom: 14px;
+    width: 24px;
 }
