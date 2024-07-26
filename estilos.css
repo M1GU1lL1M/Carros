@@ -69,4 +69,23 @@ footer {
 }
 .car {
     width: 300px;
+    border-radius: 24px;
+    position: absolute;
+    border: 3px solid white;
+}
+#car4 {
+    right: 100px;
+    width: 273px;
+}
+#car3 {
+    right: 550px;
+    width: 307px;
+}
+#car2 {
+    right: 1000px;
+    width: 307px;
+}
+#car1 {
+    left: 100px;
+    width: 307px;
 }
