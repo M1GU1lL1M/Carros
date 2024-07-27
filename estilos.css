@@ -72,6 +72,7 @@ footer {
     border-radius: 24px;
     position: absolute;
     border: 3px solid white;
+    transition: scale 100ms linear;
 }
 #car4 {
     right: 100px;
@@ -88,4 +89,28 @@ footer {
 #car1 {
     left: 100px;
     width: 307px;
+}
+.car:hover {
+    scale: 1.04;
+}
+h2 {
+    color: white;
+    position: absolute;
+    left: 170px;
+    bottom: 160px;
+    font-size: 40px;
+    font-family: "Open Sans", sans-serif;
+    transition: scale 100ms linear;
+}
+#motor {
+    left: 660px;
+}
+#tipo {
+    left: 1150px;
+}
+#corrida {
+    left: 1572px;
+}
+h2:hover {
+    scale: 1.08;
 }
