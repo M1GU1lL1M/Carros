@@ -10,6 +10,7 @@ h1 {
     font-style: italic;
     margin-top: 50px;
     font-size: 70px;
+    text-shadow: 15px 15px 15px black;
 }
 footer {
     background-color: black;
@@ -73,6 +74,7 @@ footer {
     position: absolute;
     border: 3px solid white;
     transition: scale 100ms linear;
+    bottom: 230px;
 }
 #car4 {
     right: 100px;
@@ -97,7 +99,7 @@ h2 {
     color: white;
     position: absolute;
     left: 170px;
-    bottom: 160px;
+    bottom: 140px;
     font-size: 40px;
     font-family: "Open Sans", sans-serif;
     transition: scale 100ms linear;
@@ -113,4 +115,20 @@ h2 {
 }
 h2:hover {
     scale: 1.08;
+}
+#monaco {
+    position: absolute;
+    width: 110px;
+    top: 30px;
+    left: 40px;
+    border-radius: 10px;
+    transition: scale 100ms linear;
+}
+#monaco:hover {
+    scale: 1.08;
+    animation: girando 0.5s ease-in-out 0s 1 normal;
+}
+@keyframes girando {
+    from {transform: rotate(0turn);}
+    to {transform: rotate(1turn);}
 }
