@@ -126,7 +126,7 @@ h2:hover {
 }
 #monaco:hover {
     scale: 1.08;
-    animation: girando 0.5s ease-in-out 0s 1 normal;
+    animation: girando 0.5s ease-in-out 0.2s 1 normal;
 }
 @keyframes girando {
     from {transform: rotate(0turn);}
