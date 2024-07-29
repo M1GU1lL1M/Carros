@@ -1,7 +1,5 @@
 body {
-    background-image: url(/imgs/fundopreto.jfif);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: rgb(58, 58, 58);
 }
 h1 {
     color: white;
@@ -18,7 +16,7 @@ footer {
     position: absolute;
     bottom: 0px;
     font-size: 12px;
-    width: 90%;
+    width: 99.4%;
 }
 #foot1 {
     position: relative;
@@ -81,11 +79,11 @@ footer {
     width: 273px;
 }
 #car3 {
-    right: 550px;
+    right: 800px;
     width: 307px;
 }
 #car2 {
-    right: 1000px;
+    left: 800px;
     width: 307px;
 }
 #car1 {
@@ -104,14 +102,21 @@ h2 {
     font-family: "Open Sans", sans-serif;
     transition: scale 100ms linear;
 }
+#marcas{
+    left: 155px;
+    text-shadow: 15px 15px 15px black;
+}
 #motor {
-    left: 660px;
+    left: 855px;
+    text-shadow: 15px 15px 15px black;
 }
 #tipo {
-    left: 1150px;
+    left: 1550px;
+    text-shadow: 15px 15px 15px black;
 }
 #corrida {
-    left: 1572px;
+    left: 2220px;
+    text-shadow: 15px 15px 15px black;
 }
 h2:hover {
     scale: 1.08;
