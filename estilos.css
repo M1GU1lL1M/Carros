@@ -2,6 +2,7 @@ body {
     background-image: url(imgs/fundopreto.avif);
     background-size: cover;
     background-repeat: no-repeat;
+    overflow: hidden;
 }
 h1 {
     color: white;
