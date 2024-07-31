@@ -1,5 +1,5 @@
 body {
-    background-image: url(imgs/fundopreto.avif);
+    background-image: url(imgs/fundomont.jfif);
     background-size: cover;
     background-repeat: no-repeat;
     overflow: hidden;
@@ -19,7 +19,7 @@ footer {
     position: absolute;
     bottom: 0px;
     font-size: 12px;
-    width: 90%;
+    width: 100%;
 }
 #foot1 {
     position: relative;
@@ -73,7 +73,7 @@ footer {
     width: 300px;
     border-radius: 24px;
     position: absolute;
-    border: 3px solid white;
+    border: 3px solid rgb(177, 176, 176);
     transition: scale 100ms linear;
     bottom: 230px;
 }
