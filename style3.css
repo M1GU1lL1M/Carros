@@ -37,6 +37,7 @@ header {
     padding: 12px;
     border-radius: 24px;
     transition: scale 100ms linear;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.308);
 }
 #voltar:hover {
     scale: 1.1;

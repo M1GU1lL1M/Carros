@@ -1,0 +1,15 @@
+#voltar {
+    background-color: rgb(146, 146, 146);
+    position: fixed;
+    right: 350px;
+    bottom: 30px;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 12px;
+    border-radius: 24px;
+    transition: scale 100ms linear;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.308);
+}
+#voltar:hover {
+    scale: 1.1;
+}

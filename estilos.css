@@ -42,30 +42,34 @@ footer {
 .logos {
     width: 20px;
     border-radius: 100px;
-    position: absolute;
     bottom: 5px;
 }
 #you {
+    position: absolute;
     width: 40px;
-    right: -52px;
+    right: 140px;
 }
 #zap {
-    right: -75px;
+    position: absolute;
+    right: 55px;
     bottom: 14px;
     width: 24px;
 }
 #snap {
-    right: -105px;
+    position: absolute;
+    right: 25px;
     bottom: 14px;
     width: 24px;
 }
 #twit {
-    right: -135px;
+    position: absolute;
+    right: 115px;
     bottom: 14px;
     width: 24px;
 }
 #insta {
-    right: -165px;
+    position: absolute;
+    right: 85px;
     bottom: 14px;
     width: 24px;
 }
@@ -146,3 +150,9 @@ h2:hover {
     bottom: -60px;
     left: -50px;
 } 
+#credits {
+    color: rgb(60, 99, 228);
+}
+#credits:hover {
+    color: rgb(163, 19, 207);
+}
