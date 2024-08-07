@@ -82,19 +82,19 @@ footer {
     bottom: 230px;
 }
 #car4 {
-    right: 100px;
+    right: 5%;
     width: 273px;
 }
 #car3 {
-    right: 570px;
+    right: 29.7%;
     width: 307px;
 }
 #car2 {
-    left: 570px;
+    left: 29.7%;
     width: 307px;
 }
 #car1 {
-    left: 100px;
+    left: 5%;
     width: 307px;
 }
 .car:hover {
@@ -110,19 +110,19 @@ h2 {
     transition: scale 100ms linear;
 }
 #marcas{
-    left: 170px;
+    left: 9%;
     text-shadow: 15px 15px 15px black;
 }
 #motor {
-    left: 630px;
+    left: 33%;
     text-shadow: 15px 15px 15px black;
 }
 #tipo {
-    left: 1130px;
+    left: 59%;
     text-shadow: 15px 15px 15px black;
 }
 #corrida {
-    left: 1575px;
+    left: 82.3%;
     text-shadow: 15px 15px 15px black;
 }
 h2:hover {
