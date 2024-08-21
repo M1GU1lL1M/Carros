@@ -31,6 +31,11 @@
     left: 55%;
     bottom: 25%;
 }
+#Nascimento1 {
+    position: absolute;
+    left: 8%;
+    bottom: 20%;
+}
 #voltar:hover {
     scale: 1.1;
 }
