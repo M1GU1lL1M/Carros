@@ -12,25 +12,32 @@
 }
 #Matheus {
     position: absolute;
-    left: 80%;
-    bottom: 20%;
+    left: 77%;
+    bottom: 25%;
 
 }
 #Wesley {
     position: absolute;
     left: 5%;
-    bottom: 20%;
+    bottom: 25%;
 }
 #Rubia {
     position: absolute;
-    left: 30%;
-    bottom: 20%; 
+    left: 28%;
+    bottom: 25%; 
 }
 #Miguel {
     position: absolute;
-    left: 57%;
-    bottom: 20%;
+    left: 55%;
+    bottom: 25%;
 }
 #voltar:hover {
     scale: 1.1;
+}
+p {
+    font-family: "Exo 2", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 22px;
 }
