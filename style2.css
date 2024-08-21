@@ -95,3 +95,7 @@ h2 {
     margin: auto;
     display: block;
 }
+.paragrafo {
+    line-height: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
