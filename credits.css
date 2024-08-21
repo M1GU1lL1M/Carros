@@ -10,6 +10,27 @@
     transition: scale 100ms linear;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.308);
 }
+#Matheus {
+    position: absolute;
+    left: 80%;
+    bottom: 20%;
+
+}
+#Wesley {
+    position: absolute;
+    left: 5%;
+    bottom: 20%;
+}
+#Rubia {
+    position: absolute;
+    left: 30%;
+    bottom: 20%; 
+}
+#Miguel {
+    position: absolute;
+    left: 57%;
+    bottom: 20%;
+}
 #voltar:hover {
     scale: 1.1;
 }
