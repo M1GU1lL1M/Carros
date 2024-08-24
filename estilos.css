@@ -1,0 +1,163 @@
+body {
+    background-image: url(imgs/fundomont.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-style: italic;
+    margin-top: 50px;
+    font-size: 70px;
+    text-shadow: 15px 15px 15px black;
+}
+footer {
+    background-color: black;
+    color: white;
+    position: absolute;
+    bottom: 0px;
+    font-size: 16px;
+    width: 100%;
+    font-family: "Open Sans", sans-serif;
+}
+#foot1 {
+    position: relative;
+    top: 10px;
+    left: 130px;
+}
+#foot2 {
+    position: relative;
+    left: 130px;
+}
+#foot3 {
+    position: absolute;
+    bottom: 2px;
+    left: 730px;
+    width: 450px;
+    text-align: center;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logos {
+    width: 20px;
+    border-radius: 100px;
+    bottom: 5px;
+}
+#you {
+    position: absolute;
+    width: 40px;
+    right: 140px;
+}
+#zap {
+    position: absolute;
+    right: 55px;
+    bottom: 14px;
+    width: 24px;
+}
+#snap {
+    position: absolute;
+    right: 25px;
+    bottom: 14px;
+    width: 24px;
+}
+#twit {
+    position: absolute;
+    right: 115px;
+    bottom: 14px;
+    width: 24px;
+}
+#insta {
+    position: absolute;
+    right: 85px;
+    bottom: 14px;
+    width: 24px;
+}
+.car {
+    width: 300px;
+    border-radius: 24px;
+    position: absolute;
+    border: 3px solid rgba(143, 143, 143, 0.575);
+    transition: scale 100ms linear;
+    bottom: 230px;
+}
+#car4 {
+    right: 5%;
+    width: 273px;
+}
+#car3 {
+    right: 29.7%;
+    width: 307px;
+}
+#car2 {
+    left: 29.7%;
+    width: 307px;
+}
+#car1 {
+    left: 5%;
+    width: 307px;
+}
+.car:hover {
+    scale: 1.04;
+}
+h2 {
+    color: rgb(187, 185, 185);
+    position: absolute;
+    left: 170px;
+    bottom: 140px;
+    font-size: 40px;
+    font-family: "Open Sans", sans-serif;
+    transition: scale 100ms linear;
+}
+#marcas{
+    left: 9%;
+    text-shadow: 15px 15px 15px black;
+    color: rgb(233, 232, 232);
+}
+#motor {
+    left: 33%;
+    text-shadow: 15px 15px 15px black;
+    color: rgb(233, 232, 232);
+}
+#tipo {
+    left: 59%;
+    text-shadow: 15px 15px 15px black;
+    color: rgb(233, 232, 232);
+}
+#corrida {
+    left: 82.1%;
+    text-shadow: 15px 15px 15px black;
+    color: rgb(233, 232, 232);
+}
+h2:hover {
+    scale: 1.08;
+}
+#monaco {
+    position: absolute;
+    width: 110px;
+    top: 40px;
+    left: 50px;
+    border-radius: 10px;
+    transition: scale 100ms linear;
+}
+#monaco:hover {
+    scale: 1.08;
+    animation: girando 0.5s ease-in-out 0.2s 1 normal;
+}
+@keyframes girando {
+    from {transform: rotate(0turn);}
+    to {transform: rotate(1turn);}
+}
+#logo{
+    position:absolute; 
+    width: 200px;
+    bottom: -60px;
+    left: -50px;
+} 
+#credits {
+    color: rgb(60, 99, 228);
+}
+#credits:hover {
+    color: rgb(163, 19, 207);
+}
