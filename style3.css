@@ -94,11 +94,14 @@ th, td {
     text-align: center;
     border: 1px solid black;
     padding: 7px;
+    font-family: "M PLUS Rounded 1c", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 #tabela {
     border-collapse: collapse;
     position: relative;
-    right: -385px;
+    right: -355px;
 }
 th {
     background-color: rgb(231, 231, 231);
