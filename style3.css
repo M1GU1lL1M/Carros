@@ -80,3 +80,26 @@ h1 {
     font-size: 40px;
     color: rgba(51, 51, 51, 0.795);
 }
+.mc {
+    width: 700px;
+    margin-left: 300px;
+    margin-bottom: 20px;
+}
+.paragrafo {
+    line-height: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+th, td {
+    text-align: center;
+    border: 1px solid black;
+    padding: 7px;
+}
+#tabela {
+    border-collapse: collapse;
+    position: relative;
+    right: -385px;
+}
+th {
+    background-color: rgb(231, 231, 231);
+}
