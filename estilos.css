@@ -24,12 +24,13 @@ footer {
 }
 #foot1 {
     position: relative;
-    top: 10px;
+    top: 30px;
     left: 130px;
 }
 #foot2 {
     position: relative;
     left: 130px;
+    top: 20px;
 }
 #foot3 {
     position: absolute;
@@ -151,9 +152,10 @@ h2:hover {
 }
 #logo{
     position:absolute; 
-    width: 200px;
-    bottom: -60px;
-    left: -50px;
+    width: 230px;
+    bottom: -70px;
+    left: -60px;
+
 } 
 #credits {
     color: rgb(60, 99, 228);
