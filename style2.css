@@ -100,3 +100,9 @@ h2 {
     padding-bottom: 10px;
     padding-top: 10px;
 }
+.linksp {
+    color: rgb(60, 99, 228);;
+}
+.linksp:hover {
+    color: rgb(163, 19, 207);
+}
