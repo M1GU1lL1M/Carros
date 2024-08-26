@@ -161,3 +161,15 @@ h2:hover {
 #credits:hover {
     color: rgb(163, 19, 207);
 }
+button{
+    cursor: pointer;
+}
+
+#easteregg{
+    position: absolute;
+    top: 82%;
+    width: 10%; 
+    transform: scaleX(-1);
+    left: -159px;
+    display: none;
+}
