@@ -66,8 +66,8 @@ h2 {
 }
 .mc {
         width: 700px;
-        margin-left: 300px;
-        margin-bottom: 20px;
+        margin: auto;
+        display: block;
 }
 section {
         margin-left: 300px;
