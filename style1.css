@@ -99,3 +99,12 @@ p {
 .linksp:hover {
         color: rgb(163, 19, 207);
 }
+.pemo{
+        text-align: center;
+        font-weight: bold;
+}
+.imgpm{
+        width: 300px;
+        margin: auto;
+        display: block;
+}
