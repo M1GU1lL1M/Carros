@@ -108,3 +108,11 @@ p {
         margin: auto;
         display: block;
 }
+.video{
+        display: block;
+        margin: auto;
+}
+#tvideo{
+        font-weight: bold;
+        text-align: center;
+}
