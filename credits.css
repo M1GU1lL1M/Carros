@@ -1,3 +1,33 @@
+#logo {
+    width: 280px;
+    position: absolute;
+    left: 620px;
+    top: -100px;
+}
+body {
+    background-color: rgb(255, 255, 255);
+    
+}
+header {
+    background-color: rgb(255, 255, 255);
+    background-size: cover;
+    height: 90px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.185);
+}
+.head {
+    display: inline-block;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: absolute;
+    top: 15px;
+
+    background-color: rgb(255, 255, 255);
+    padding: 8px;
+    border-radius: 24px;
+    color: rgba(51, 51, 51, 0.795);     
+}
+.head:hover {
+    color: rgb(0, 0, 0);
+}
 #voltar {
     background-color: rgb(146, 146, 146);
     position: fixed;
@@ -13,3 +43,58 @@
 #voltar:hover {
     scale: 1.1;
 }
+
+#ini {
+    left: 850px;
+}
+#mot {
+    left: 920px;
+}
+#tip {
+    left: 1014px;
+}
+#corri {
+    left: 1080px;
+}
+#mark {
+    left: 926px;
+}
+.mc {
+    width: 700px;
+    margin: auto;
+    display: block;
+}
+section {
+    margin-left: 300px;
+    margin-right: 300px;
+    border-left: 1px solid rgba(8, 7, 7, 0.185);
+    border-right: 1px solid rgba(7, 6, 6, 0.185);
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    padding-left: 150px;
+    padding-right: 150px;
+    font-size: 17px;
+
+}
+.m {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    margin: 5px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 78px;
+}
+.MT, .miguel, .rubia, .Whesley {
+    font-size: 32px;
+    color: #333;
+    margin: 0.5px ;
+    border-radius: 360px;
+}
+
+
+
+
+
