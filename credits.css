@@ -59,11 +59,7 @@ header {
 #mark {
     left: 926px;
 }
-.mc {
-    width: 700px;
-    margin: auto;
-    display: block;
-}
+
 section {
     margin-left: 300px;
     margin-right: 300px;
@@ -85,15 +81,40 @@ p {
     margin: 5px;
     display: inline-block;
     text-align: center;
-    border-radius: 78px;
+    border-radius: 78%;
+    position: relative;
 }
-.MT, .miguel, .rubia, .Whesley {
-    font-size: 32px;
-    color: #333;
-    margin: 0.5px ;
-    border-radius: 360px;
-}
+#mi {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    margin: 5px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 78%;
+    position: relative;
 
+}
+#r {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    margin: 5px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 78%;
+    position: relative;
+}
+#w {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    margin: 5px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 78%;
+    position: relative;
+}
 
 
 
