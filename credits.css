@@ -1,7 +1,7 @@
 #logo {
     width: 280px;
     position: absolute;
-    left: 620px;
+    left: 730px;
     top: -100px;
 }
 body {
@@ -32,7 +32,7 @@ header {
     background-color: rgb(146, 146, 146);
     position: fixed;
     right: 350px;
-    bottom: 30px;
+    bottom: -17px;
     color: white;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     padding: 12px;
@@ -45,7 +45,7 @@ header {
 }
 
 #ini {
-    left: 850px;
+    left: 950px;
 }
 #mot {
     left: 920px;
@@ -63,8 +63,6 @@ header {
 section {
     margin-left: 300px;
     margin-right: 300px;
-    border-left: 1px solid rgba(8, 7, 7, 0.185);
-    border-right: 1px solid rgba(7, 6, 6, 0.185);
 }
 p {
     font-family: 'Times New Roman', Times, serif;
@@ -75,47 +73,83 @@ p {
 
 }
 .m {
-    width: 100%;
-    max-width: 400px;
-    height: auto;
-    margin: 5px;
-    display: inline-block;
-    text-align: center;
-    border-radius: 78%;
-    position: relative;
-}
-#mi {
-    width: 100%;
-    max-width: 400px;
-    height: auto;
-    margin: 5px;
-    display: inline-block;
-    text-align: center;
-    border-radius: 78%;
-    position: relative;
+    border-radius: 100%;
+    width: 300px;
+    position: absolute;
+}   
 
-}
-#r {
-    width: 100%;
-    max-width: 400px;
-    height: auto;
-    margin: 5px;
-    display: inline-block;
+
+.nomes {
+    position: absolute;
+    top: 700px;
+    font-family: "M PLUS Rounded 1c", sans-serif;
+    font-size: 20px;
     text-align: center;
-    border-radius: 78%;
-    position: relative;
-}
-#w {
-    width: 100%;
-    max-width: 400px;
-    height: auto;
-    margin: 5px;
-    display: inline-block;
-    text-align: center;
-    border-radius: 78%;
-    position: relative;
 }
 
+h1 {
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    margin-top: 90px;
+    font-size: 40px;
+    color: rgba(51, 51, 51, 0.795);
+}
 
+#mat {
+    top: 345px;
+    left: 270px
+}
 
+#mig {
+    top: 345px;
+    left: 620px;
+}
 
+#rub {
+    top: 345px;
+    left: 970px;
+}
+
+#wes {
+    top: 345px;
+    left: 1320px;
+}
+
+#nmat {
+    top: 670px;
+    left: 98px;
+}
+
+#nmig {
+    top: 670px;
+    left: 455px;
+}
+
+#nrub {
+    top: 670px;
+    left: 810px;
+}
+
+#nwes {
+    top: 670px;
+    left: 1180px;
+}
+
+#art {
+    position: absolute;
+    top: 700px;
+}
+
+#art {
+    margin-top: 100px;
+}
+
+#font {
+    margin-left: -150px;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 19px;
+    margin-bottom: 100px;
+}
